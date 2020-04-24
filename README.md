@@ -1,5 +1,6 @@
-# CS496-DL-for-Proctitioner
-This is course project for CS496
+# CS496-DL-for-Practitioner
+This is course project for CS496: Deep Learning for Practitioner
+
 The link to the paper of my interest:
 https://arxiv.org/pdf/1706.03762.pdf
 
